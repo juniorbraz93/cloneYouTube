@@ -1,0 +1,10 @@
+export const Logo = require('../image/logo.png');
+export const LogoMin = require('../image/logo3.png');
+export const Profile = require('../image/profile.png');
+export const Canal1 = require('../image/profilepicture/canal1.jpg');
+export const Canal2 = require('../image/profilepicture/canal2.jpg');
+export const Canal3 = require('../image/profilepicture/canal3.jpg');
+export const Canal4 = require('../image/profilepicture/canal4.jpg');
+export const Canal5 = require('../image/profilepicture/canal5.jpg');
+export const Canal6 = require('../image/profilepicture/canal6.jpg');
+export const LayerVideoCh01 = require('../image/layerVideo/canal1-02.png')
