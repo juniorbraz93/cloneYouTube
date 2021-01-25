@@ -52,7 +52,7 @@ const Navigation: React.FC = () => {
             return <Icon name={name} size={25} color={color} />;
           },
         })}
-        initialRouteName="TimeLine"
+        initialRouteName="Explorer"
         activeColor="#fff"
         inactiveColor="#92929c"
         barStyle={styles.tabBar}>
