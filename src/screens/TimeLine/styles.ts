@@ -108,12 +108,12 @@ export const styles = StyleSheet.create({
   },
   ShortTitle: {
     marginTop: 200,
-    color: Colors.red,
+    color: Colors.white,
     fontFamily: 'Roboto',
     fontWeight: 'bold',
   },
   shortSubTitle: {
-    color: Colors.red,
+    color: Colors.white,
     fontFamily: 'Roboto',
   },
   TabGraySmall: {
