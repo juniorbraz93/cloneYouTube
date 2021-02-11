@@ -6,6 +6,12 @@ export const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: Colors.grayDark,
   },
+  CanalPerfiel: {
+    margin: 5,
+    height: 40,
+    width: 40,
+    borderRadius: 20,
+  },
   Header: {
     backgroundColor: Colors.grayDark,
     height: 50,
@@ -115,9 +121,68 @@ export const styles = StyleSheet.create({
     backgroundColor: Colors.Green,
     margin: 5,
   },
+  LabelSports: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    height: 45,
+    width: 175,
+    borderRadius: 5,
+    backgroundColor: Colors.DodgerBlue,
+    margin: 5,
+  },
   TextLabel: {
     color: Colors.white,
     fontSize: 16,
     fontWeight: 'bold',
+  },
+  TabGraySmall: {
+    marginTop: 2,
+    marginBottom: 10,
+    borderBottomColor: Colors.grayLight,
+    borderBottomWidth: 2,
+  },
+  FBreederContainer: {},
+  FeaturedBreeder: {
+    flexDirection: 'row',
+  },
+  NameCh: {
+    margin: 2,
+    color: Colors.white,
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+  BorderColor: {
+    width: 130,
+    height: 15,
+    borderRadius: 5,
+    backgroundColor: Colors.Blue,
+    alignItems: 'center',
+  },
+  TextFBreeder: {
+    color: Colors.white,
+    fontSize: 12,
+    fontWeight: 'bold',
+  },
+  ScrollView: {
+    marginBottom: 2,
+  },
+  MiniLabel: {
+    margin: 5,
+    width: 180,
+    height: 160,
+    borderRadius: 5,
+    alignItems: 'center',
+  },
+  Layer: {},
+  TextPosition: {
+    alignItems: 'center',
+  },
+  shortText: {
+    fontSize: 18,
+    fontFamily: 'Roboto',
+    fontWeight: 'bold',
+    color: Colors.white,
+    marginBottom: 10,
+    marginLeft: 10,
   },
 });

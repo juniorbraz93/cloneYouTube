@@ -2,9 +2,8 @@ export const TitleSubTiltle = {
   title1:
     'COMO SEGUIR CARREIRA DE PROGRAMADOR | minha história + 5 DICAS PARA PRIMEIRO EMPREGO',
   subtitle1: 'Gabriela Pinheiro 574 visualizações há 2 dias',
-  title2:
-    'COMO EU VIREI DESENVOLVEDORA FRONT-END (E DESISTI DE DESENVOLVER JOGOS)',
-  subtitle2: 'Gabriela Pinheiro 1,7 mil visualizações há 1 semana',
+  title2: '🤩 Quando sai o Módulo 2 do Curso de HTML5? ✌️',
+  subtitle2: 'Curso em Vídeo 15 mil visualizações há 4 semanaS',
   title3: 'Dark e Light Mode Nativos com React Native e Styled Components!',
   subtitle3: 'Mateus Silva 3 mil visualizações há 7 meses',
   title4:

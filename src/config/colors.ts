@@ -11,6 +11,7 @@ export const Colors = {
   DarkOrange: '#FF8C00',
   Cyan: '#20B2AA',
   Blue: '#0000CD',
+  DodgerBlue: '#1E90FF',
   Green: '#2E8B57',
   // borderTabBar: 'rgba(255, 255, 255, 0, 2)',
 };

@@ -33,5 +33,8 @@ export const short6 = require('../image/shortVideos/short6.jpeg');
 export const short7 = require('../image/shortVideos/short7.jpeg');
 export const short8 = require('../image/shortVideos/short8.jpeg');
 export const comunity1 = require('../image/comunity/comunity1.png');
+export const Mini01 = require('../image/layerVideo/mini01.png');
+export const Mini02 = require('../image/layerVideo/mini02.png');
+export const Mini03 = require('../image/layerVideo/mini03.png');
 
 export const construction = require('../image/construction.png');
